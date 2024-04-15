@@ -2,9 +2,14 @@ import secrets
 import string
 import csv
 import hashlib
+
+import tkinter as tk
 special_char = ['_','&','!','?',';','@','^']
 special_char = ''.join(special_char)
 
+window = tk.Tk()
+label = tk.Label(text='Password Generator: ')
+label.pack()
 # Loop that dictates the type of password to be generated.
 while True:
     x = int(input("Would you like to include special characters? (0, 1):"))
