@@ -24,3 +24,8 @@ Updated the read me, as I though the comment I added when I commited the changes
 #Update 3:
 
 Added some comments, and fixed some typos.
+
+Final update:
+
+
+A lot has been going on, but I've managed to somewhat make it, it's nothing much, but it does the job I guess, I'm not going to add anything to it anymore, and instead will try to find other ways to develop my skills, I feel like there is a transparent barrier seperating me from drowning and actually getting good at programming, but I don't know what will give me that final push. I will not give up.
